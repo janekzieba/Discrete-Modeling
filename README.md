@@ -7,6 +7,9 @@ This Python script implements **discrete modeling** through cellular automata si
 This Python script implements discrete modeling using 1D cellular automata simulations. It supports dynamic rule generation based on a user-provided album number and applies rules to evolve the automaton over a specified number of iterations. The simulation allows for periodic or absorbing boundary conditions, and the results can be visualized in the terminal or saved to a CSV file. Users can interactively toggle boundary conditions and explore the evolution of the automaton. The script is ideal for understanding the dynamics of 1D automata and experimenting with custom rules.
 
 
+**FILE : SIMULATION.py**
+This project is a dynamic simulation of terrain changes based on an input satellite image. The program visualizes processes such as flooding and fire, while allowing interaction during the simulation, such as adding dams or extinguishing fires. The code utilizes Python and libraries like numpy, matplotlib, Pillow, and animation.
+
 
 
 
