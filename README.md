@@ -8,6 +8,7 @@ This Python script implements discrete modeling using 1D cellular automata simul
 
 
 **FILE : SIMULATION.py**
+
 This project is a dynamic simulation of terrain changes based on an input satellite image. The program visualizes processes such as flooding and fire, while allowing interaction during the simulation, such as adding dams or extinguishing fires. The code utilizes Python and libraries like numpy, matplotlib, Pillow, and animation.
 
 
